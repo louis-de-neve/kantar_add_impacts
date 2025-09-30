@@ -1,5 +1,8 @@
 # kantar_add_impacts
-### Data Files:
+## Overview
+![Flowchart](Flowchart.png)
+
+## Data Files
 #### Required:
 - data/attr_all_fixed.csv (product data)
 - data/dat_th.csv (purchase data)
@@ -12,7 +15,7 @@
 
 
 
-### Run order:
+## Run order:
 1. run add_tag_to_attr_all_fixed.py
   
     This adds the mapping tag to each product 
